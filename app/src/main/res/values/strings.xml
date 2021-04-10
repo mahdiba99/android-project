@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MNProject</string>
+    <string name="app_name" >MNProject</string>
+    <string name="title_dashboard" />
+    <string name="title_home" />
+    <string name="title_notifications" />
+    <string name="hello_den">Hello Den</string>
+    <string name="let_s_order_a_food">Let\'s order a food</string>
 </resources>
